@@ -1,8 +1,0 @@
-npm i
-expo install expo-dev-client
-// eas build:configure
-expo run:ios -d             warnings
-expo run:android -d         errors
-
-
-expo start --dev-client(both)
